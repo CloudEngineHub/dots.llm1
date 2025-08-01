@@ -102,7 +102,7 @@ curl http://localhost:8000/v1/chat/completions \
 
 ### Inference with huggingface
 
-We are working to merge it into Transformers ([PR #38143](https://github.com/huggingface/transformers/pull/38143)).
+You can now inference in Transformers starting from version `4.53.0`.
 
 #### Text Completion
 
@@ -145,7 +145,7 @@ print(result)
 
 ### Inference with vllm
 
-[vLLM](https://github.com/vllm-project/vllm) is a high-throughput and memory-efficient inference and serving engine for LLMs. Official support for this feature is covered in [PR #18254](https://github.com/vllm-project/vllm/pull/18254).
+[vLLM](https://github.com/vllm-project/vllm) is a high-throughput and memory-efficient inference and serving engine for LLMs. You can inference with vllm since `v0.9.2`.
 
 ```shell
 vllm serve dots.llm1.inst --port 8000 --tensor-parallel-size 8
