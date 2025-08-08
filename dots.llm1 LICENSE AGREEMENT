@@ -1,6 +1,6 @@
 dots.llm1 LICENSE AGREEMENT
 
-Effective Date: [July 20, 2025]
+Effective Date: [August 8, 2025]
 
 Copyright Holder: [Xingyin Information Technology (Shanghai) Co., Ltd.]
 
@@ -67,18 +67,16 @@ If Licensee institutes patent litigation against any entity (including a cross-c
 4.4   Trademarks. Nothing in this License permits Licensee to make use of Licensor’s trademarks, trade names, logos (e.g., “rednote,” “Xiaohongshu,” “dots.llm1”) or to otherwise suggest endorsement or misrepresent the relationship between the parties, unless Licensor’s prior written approval is granted.
 
 5. Data Governance, Privacy, and Security 
-5.1   Training‑Data Usage. Licensee acknowledges and agrees that user inputs and Outputs，when using the model through APIs or other means, may be used by the Licensor in further training, to improve the Model Materials and enhance user experience. Licensor assumes no confidentiality obligation with respect to such data.
+5.1   Data Quality and Bias. Licensee shall use training data from lawful sources and is encouraged to conduct due diligence before deploying the Model Materials and to take reasonable steps to mitigate any known biases in its training data or applications.
 
-5.2   Data Quality and Bias. Licensee shall use training data from lawful sources and is encouraged to conduct due diligence before deploying the Model Materials and to take reasonable steps to mitigate any known biases in its training data or applications.
-
-5.3   Privacy Protection.
+5.2   Privacy Protection.
  (a) Sensitive‑Data Restrictions. It is prohibited to use the Model Materials to process, generate, or infer sensitive personal data protected under specific laws (such as GDPR or HIPAA), unless Licensee has obtained all necessary consents, lawful basis, or authorizations, and has implemented adequate anonymization, pseudonymization, or other privacy-enhancing technologies.
  (b) Data Minimization and Purpose Limitation. Licensee shall process only the minimum personal data necessary for specific, explicit, and legitimate purposes.
-(c) Transparency. Licensee shall provide clear and transparent privacy policies and terms of use when processing user data. 
+ (c) Transparency. Licensee shall provide clear and transparent privacy policies and terms of use when processing user data. 
 
-5.4   Security Measures. Licensee shall implement appropriate technical and administrative safeguards to protect the Model Materials and any associated data against unauthorized access, disclosure, alteration, or destruction. Such measures may include, but are not limited to, encryption, access controls, logging, and audit trails.
+5.3   Security Measures. Licensee shall implement appropriate technical and administrative safeguards to protect the Model Materials and any associated data against unauthorized access, disclosure, alteration, or destruction. Such measures may include, but are not limited to, encryption, access controls, logging, and audit trails.
 
-5.5   Further Training. Licensee may only use user‑provided input or Outputs for training, fine-tuning, or improving other AI models if it has obtained the specific and informed consent from data subjects.
+5.4   Further Training. Licensee may only use user‑provided input or Outputs for training, fine-tuning, or improving other AI models if it has obtained the specific and informed consent from data subjects.
 
 6. Disclaimer of Warranty and Limitation of Liability
 6.1 “AS IS” Basis. Unless required by applicable law, the Model Materials are provided on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied, including, without limitation, any warranties or conditions of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, OR FITNESS FOR A PARTICULAR PURPOSE. Licensee is solely responsible for determining the appropriateness of using or redistributing the Model Materials and assume any risks associated with the exercise of permissions under this License. Licensor does not provide any warranty of non-infringement but represents that no infringing code has been knowingly included.
@@ -105,4 +103,4 @@ If Licensee institutes patent litigation against any entity (including a cross-c
 In the event that any part of this Agreement becomes invalid or requires adjustment due to changes in applicable laws or regulations, Licensor reserves the right to issue a revised version of this Agreement. Licensee shall migrate to the new version within ninety (90) days of its release; otherwise, all rights granted under this Agreement shall automatically terminate.
 
 10. Security Reporting
-Licensee discovering any security vulnerability in the Model Materials may report it to Licensor via: dotsllm_feedback@xiaohongshu.com. Licensee shall not disclose vulnerability details until Licensor issues an official remediation, unless otherwise required by law.
+Licensee discovering any security vulnerability in the Model Materials may report it to Licensor via: dots_feedback@xiaohongshu.com. Licensee shall not disclose vulnerability details until Licensor issues an official remediation, unless otherwise required by law.
