@@ -7,8 +7,9 @@
 <p align="center">
     &nbsp&nbsp🤗 <a href="https://huggingface.co/rednote-hilab">Hugging Face</a>&nbsp&nbsp | &nbsp&nbsp 📑 <a href="https://www.arxiv.org/abs/2506.05767">Paper</a> &nbsp&nbsp 
 <br>
-🖥️ <a href="https://huggingface.co/spaces/rednote-hilab/dots-demo">Demo</a>&nbsp&nbsp | &nbsp&nbsp💬 <a href="figures/wechat.png">WeChat (微信)</a>&nbsp&nbsp | &nbsp&nbsp📕 <a href="https://www.xiaohongshu.com/user/profile/683ffe42000000001d021a4c">rednote</a>&nbsp&nbsp
+🖥️ <a href="https://huggingface.co/spaces/rednote-hilab/dots-demo">Demo</a>&nbsp&nbsp | &nbsp&nbsp💬 <a href="figures/wechat.jpg">WeChat (微信)</a>&nbsp&nbsp | &nbsp&nbsp📕 <a href="https://www.xiaohongshu.com/user/profile/683ffe42000000001d021a4c">rednote</a>&nbsp&nbsp | &nbsp&nbsp <a href="https://x.com/rednotehilab"> 𝕏 X </a>&nbsp&nbsp
 </p>
+
 
 
 Visit our Hugging Face (click links above), search checkpoints with names starting with `dots.llm1` or visit the [dots1 collection](https://huggingface.co/collections/rednote-hilab/dotsllm1-68246aaaaba3363374a8aa7c), and you will find all you need! Enjoy!
